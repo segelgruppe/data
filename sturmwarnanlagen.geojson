@@ -4,143 +4,140 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Neusiedl"
+        "name": "Weiden",
+        "description": "Mast Kanaleinfahrt, von See kommend links"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.8383333333,
-          47.9266666667
+          16.852324604988098,
+          47.91676988066716
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Weiden"
+        "name": "Podersdorf",
+        "description": "Leuchtturm an der Außenmole"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.8522222222,
-          47.9166666667
+          16.82660222053528,
+          47.86044430420972
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Podersdorf"
+        "name": "Illmitz Hoelle",
+        "description": "Mast (7m) am Haus des Wasserleitungsverbandes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.8263888889,
-          47.8602777778
+          16.783568859100342,
+          47.80366112153503
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Illmitz Hoelle"
+        "name": "Illmitz Seebad",
+        "description": "Mast in der Badeanlage - Gemeindehafen, südl. des YCI"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.7830555556,
-          47.8036111111
+          16.74243450164795,
+          47.75597336364066
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Illmitz Seebad"
+        "name": "Fertoerakos",
+        "description": "Mast am Haus des Wasserverbandes"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.7425,
-          47.7558333333
+          16.693049669265747,
+          47.72025011377023
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Fertoerakos"
+        "name": "Moerbisch",
+        "description": "am Mast (8m) des Polizei- und Zollwachhauses"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.6933333333,
-          47.7202777778
+          16.69799566268921,
+          47.75151560961905
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Moerbisch"
+        "name": "Rust",
+        "description": "Turm mit Mast (10m) am Clubhaus des Burgenländischen Yachtclubs (BYC)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.6977777778,
-          47.7513888889
+          16.699449419975277,
+          47.80355302733955
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Rust"
+        "name": "Oggau", 
+        "description": "Mast (20m) bei Kanaleinfahrt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.6994444444,
-          47.8036111111
+          16.70109093189239,
+          47.845127464583896
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Oggau"
+        "name": "Purbach",
+        "description": "Mast (5m) am Fußwegende, Anfang Kanaleinfahrt"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.7011111111,
-          47.845
+          16.74595355987549,
+          47.90095900403078
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Purbach"
+        "name": "Breitenbrunn",
+        "description": "Flaggenmast (15m) im Yachtclub Breitenbrunn (YCBb)"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.7461111111,
-          47.9011111111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Breitenbrunn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.77,
-          47.9161111111
+          16.77010416984558,
+          47.91620901340048
         ]
       }
     }
