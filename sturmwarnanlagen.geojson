@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Neusiedl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8383333333,
+          47.9266666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weiden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8522222222,
+          47.9166666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Podersdorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8263888889,
+          47.8602777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illmitz Hoelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7830555556,
+          47.8036111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Illmitz Seebad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7425,
+          47.7558333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fertoerakos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6933333333,
+          47.7202777778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moerbisch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6977777778,
+          47.7513888889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rust"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6994444444,
+          47.8036111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oggau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7011111111,
+          47.845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Purbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7461111111,
+          47.9011111111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breitenbrunn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.77,
+          47.9161111111
+        ]
+      }
+    }
+  ]
+}
