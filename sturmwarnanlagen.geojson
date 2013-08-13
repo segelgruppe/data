@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Neusiedl", 
-        "description": "Mast (6m) auf der Mole im Südhafen"
+        "name": "Neusiedl",
+        "description": "Mast auf der Mole im Südhafen",
+        "height": 6
       },
       "geometry": {
         "type": "Point",
@@ -18,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "Weiden",
-        "description": "Mast Kanaleinfahrt, von See kommend links"
+        "description": "Mast Kanaleinfahrt, von See kommend links",
       },
       "geometry": {
         "type": "Point",
@@ -32,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "Podersdorf",
-        "description": "Leuchtturm an der Außenmole"
+        "description": "Leuchtturm an der Außenmole",
       },
       "geometry": {
         "type": "Point",
@@ -46,7 +47,8 @@
       "type": "Feature",
       "properties": {
         "name": "Illmitz Hoelle",
-        "description": "Mast (7m) am Haus des Wasserleitungsverbandes"
+        "description": "Mast am Haus des Wasserleitungsverbandes".
+        "height": 7
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +90,8 @@
       "type": "Feature",
       "properties": {
         "name": "Moerbisch",
-        "description": "am Mast (8m) des Polizei- und Zollwachhauses"
+        "description": "Am Mast des Polizei- und Zollwachhauses",
+        "height": 8
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +105,8 @@
       "type": "Feature",
       "properties": {
         "name": "Rust",
-        "description": "Turm mit Mast (10m) am Clubhaus des Burgenländischen Yachtclubs (BYC)"
+        "description": "Turm mit Mast am Clubhaus des Burgenländischen Yachtclubs (BYC)",
+        "height": 10
       },
       "geometry": {
         "type": "Point",
@@ -116,7 +120,8 @@
       "type": "Feature",
       "properties": {
         "name": "Oggau",
-        "description": "Mast (20m) bei Kanaleinfahrt"
+        "description": "Mast bei Kanaleinfahrt",
+        "height": 20
       },
       "geometry": {
         "type": "Point",
@@ -130,7 +135,8 @@
       "type": "Feature",
       "properties": {
         "name": "Purbach",
-        "description": "Mast (5m) am Fußwegende, Anfang Kanaleinfahrt"
+        "description": "Mast am Fußwegende, Anfang Kanaleinfahrt",
+        "height": 5
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +150,8 @@
       "type": "Feature",
       "properties": {
         "name": "Breitenbrunn",
-        "description": "Flaggenmast (15m) im Yachtclub Breitenbrunn (YCBb)"
+        "description": "Flaggenmast im Yachtclub Breitenbrunn (YCBb)",
+        "height": 15
       },
       "geometry": {
         "type": "Point",
