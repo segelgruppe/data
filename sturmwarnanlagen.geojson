@@ -6,7 +6,10 @@
       "properties": {
         "name": "Neusiedl",
         "description": "Mast auf der Mole im Südhafen",
-        "height": 6
+        "height": 6,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -20,6 +23,9 @@
       "properties": {
         "name": "Weiden",
         "description": "Mast Kanaleinfahrt, von See kommend links",
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -34,6 +40,9 @@
       "properties": {
         "name": "Podersdorf",
         "description": "Leuchtturm an der Außenmole",
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +56,11 @@
       "type": "Feature",
       "properties": {
         "name": "Illmitz Hoelle",
-        "description": "Mast am Haus des Wasserleitungsverbandes".
-        "height": 7
+        "description": "Mast am Haus des Wasserleitungsverbandes",
+        "height": 7,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -62,7 +74,10 @@
       "type": "Feature",
       "properties": {
         "name": "Illmitz Seebad",
-        "description": "Mast in der Badeanlage - Gemeindehafen, südl. des YCI"
+        "description": "Mast in der Badeanlage - Gemeindehafen, südl. des YCI",
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +91,10 @@
       "type": "Feature",
       "properties": {
         "name": "Fertoerakos",
-        "description": "Mast am Haus des Wasserverbandes"
+        "description": "Mast am Haus des Wasserverbandes",
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -91,7 +109,10 @@
       "properties": {
         "name": "Moerbisch",
         "description": "Am Mast des Polizei- und Zollwachhauses",
-        "height": 8
+        "height": 8,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -106,7 +127,10 @@
       "properties": {
         "name": "Rust",
         "description": "Turm mit Mast am Clubhaus des Burgenländischen Yachtclubs (BYC)",
-        "height": 10
+        "height": 10,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +145,10 @@
       "properties": {
         "name": "Oggau",
         "description": "Mast bei Kanaleinfahrt",
-        "height": 20
+        "height": 20,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -136,7 +163,10 @@
       "properties": {
         "name": "Purbach",
         "description": "Mast am Fußwegende, Anfang Kanaleinfahrt",
-        "height": 5
+        "height": 5,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +181,10 @@
       "properties": {
         "name": "Breitenbrunn",
         "description": "Flaggenmast im Yachtclub Breitenbrunn (YCBb)",
-        "height": 15
+        "height": 15,
+        "marker-symbol": "star-stroked",
+        "marker-size": "medium",
+        "marker-color": "#3B4989"
       },
       "geometry": {
         "type": "Point",
