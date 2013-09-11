@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yachtclub Podersdorf",
+        "homepage": "http://ycpodersdorf.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.817412972450256,
+          47.84639294015754
+        ]
+      }
+    }
+  ]
+}
