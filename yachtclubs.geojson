@@ -10,8 +10,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.817412972450256,
-          47.84639294015754
+          16.817370057106018,
+          47.846398340413884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Segelclub Podersdorf Nord",
+        "homepage": "http://www.scpn.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.835196018218994,
+          47.86581402603364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yachtclub Weiden",
+        "homepage": "http://www.ycw.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.853638887405396,
+          47.91787362093029
         ]
       }
     }
